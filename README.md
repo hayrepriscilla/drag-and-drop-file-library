@@ -1,4 +1,4 @@
-```plaintext
+
 # Drag-and-Drop File Library
 
 The **Drag-and-Drop File Library** is a lightweight JavaScript library for adding drag-and-drop file upload functionality to your web applications. It provides an easy-to-use API to handle file drag-and-drop events and enables seamless file uploads.
@@ -57,4 +57,3 @@ The **Drag-and-Drop File Library** emits the following event:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
