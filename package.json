@@ -1,0 +1,23 @@
+{
+  "name": "drag-and-drop-file-library",
+  "version": "1.0.1",
+  "description": "A React component for drag and drop file upload functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hayrepriscilla/drag-and-drop-file-library"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
+  },
+  "dependencies": {
+    "dropzone": "^5.7.2",
+    "filepond": "^4.13.4",
+    "react": "^17.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
